@@ -1,5 +1,5 @@
 # navicat-trial-resetter
 
-Run ./cracknavicat.sh
+Run bash cracknavicat.sh
 
 Work on MacOS & navicat 16
